@@ -1,3 +1,2 @@
-git log 
-git status
-
+git config --global user.name ""
+git config --global user.email ""
